@@ -1,0 +1,6 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" fill="#071C4D"/>
+  <text x="20" y="65" font-family="Arial" font-size="50" font-weight="bold" fill="#ffffff">TravelNow</text>
+  <circle cx="350" cy="50" r="30" stroke="#ffffff" stroke-width="5" fill="none"/>
+  <path d="M350,30 L360,50 L350,70 L340,50 Z" fill="#ffffff"/>
+</svg>
